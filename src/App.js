@@ -1,10 +1,12 @@
 
 import './App.css';
+import CrudExample from './components/CrudExample';
+
 
 function App() {
   return (
     <div className="App">
-      Nesto
+      <CrudExample />
     </div>
   );
 }
